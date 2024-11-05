@@ -96,6 +96,11 @@ In the Clothing section of the company
 
 With the Total revenue for both periods at  N2m an analysis of products performance highlights that the Hats emerged as the highest seling item  with a 23% Sales over the other 6 products while the jackets ranked the lowest in sales. This could indicate that hats have a stronger appealor are priced strategically to generate higher sales. whereas the jasckets would most definetely need additional attention in terms of marketing, pricing, or even design adjustment. The month of January also within the 2 year periods was the most active sales period which could also be due to factors Post holiday shopping , new year bonuses, promotions and discounting of items.
 
+#### Recommendations 
+- Re evaluate marketing strategies: Allocate more of their marketinf budget towards hats items to keep it runningbut also invest in targeted campaigns for other items to raise their visibilty
+- Cross selling : they can use the popularity of Hats to encoourage the purchase of other items by pairing them at a discounted rate.
+- Focus on the regions not performing so well and bring in more campaigns of their goods with more targeted adverts and marketing
+  
 
 
 
@@ -103,6 +108,22 @@ With the Total revenue for both periods at  N2m an analysis of products performa
 In the Internet Subsription section of the company 
 
 ![1](https://github.com/user-attachments/assets/0b1ac041-0985-4c42-b06e-b75c59166eb0)!![3](https://github.com/user-attachments/assets/ce24aae4-6b73-4d05-bb40-ee62ef8e5720)![4](https://github.com/user-attachments/assets/e02bc799-980e-4fa5-8d9e-c685fba9b27b)
+
+For this section the majority of the subscribers opt for the basic package making it the most common subscription package.  Whislt there are a higher no of cancelled subscriptions compared to the active ones.
+Preference for the basic subscription over the premium and standard options suggest the customers priotize cost over additional features. Though the revenuehave a very close mark up amogst the 4 regions , the East Region still boast of more subscribers, which can also be due to the fact the company has less competitors there. Withthis insight they should priotize their customers and give them the most satisfaction in terms of good service an quality of services.
+
+
+#### Recomendations 
+
+- Potential Value Misalliglnmen in the Premium and Standard packages: Considering revising the features sets to make the premium package more attractive  or reduce the standard pacakge price to make it more competitive with the basic
+- High Cancellation rate : Improving on service quality  for customer retention whislt gathering feedbacks through surveys.
+- Enhanced fovus on the basic package:Delivering of high quality service would allow satisfied customers to have more confident and value in the brand and decide to upgrade their packages
+
+
+### Conclusion 
+
+Trade Wave Hub should focus on boosting their revenue through enhaced customer satisfaction, promoting and advertisng their products would also enhance sales. Adding bundle services to their internet subscription would give it a higher value at slightly increased cost. Implementing this strategies aims to improve finacial perfornmance and ensure sustainable profitabitlity.
+
 
 
 
