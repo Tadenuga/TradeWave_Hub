@@ -33,7 +33,7 @@ The major data source was given by the sales department which included the Sales
 
 ### Tools Used
 ---
-- Microsoft Excel 
+- Microsoft Excel [Download Here](https://www.microsoft.com)
   1. for Data cleaning
   2. for Data Analysis
   3. for Visualization
@@ -74,6 +74,10 @@ This is where the basic lines of codes or queries  were included and some of the
 ### Data Visualization
 ---
 
+![Dashboard Visualization on Sales Report](https://github.com/user-attachments/assets/33facb4b-ab90-4151-86c2-e7de88fab10b)
+
+
+![Dashboard Visualization on Customer Report](https://github.com/user-attachments/assets/14f61756-812a-4fd3-9098-d53d665e8a7b)
 
 
 
