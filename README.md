@@ -34,12 +34,12 @@ The major data source was given by the sales department which included the Sales
 ### Tools Used
 ---
 - Microsoft Excel [Download Here](https://www.microsoft.com)
-  1. for Data cleaning
+  1. for Data cleaning)
   2. for Data Analysis
   3. for Visualization
      
-- SQL- Structured Query Language for quering of Sales Data
-- SQL- Structured Query Language for quering of Customer Data  
+- SQL- Structured Query Language for quering of Sales Data [Download Here](https://1drv.ms/u/s!Akgv6qnGgC1Och9VmrPtuxLmlYk?e=)
+- SQL- Structured Query Language for quering of Customer Data  [Download Here](https://1drv.ms/u/s!Akgv6qnGgC1Oc6xG4wuv922ELU8?e=t0wR36)
 - Power Bi for Data Analysis and Visualization  
 - Github for Portfolio Building
 
