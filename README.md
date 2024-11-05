@@ -11,11 +11,9 @@
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
-[Data Analysis](#data-analysis)
-
 [Data Visualization](#data-visualization)
 
-
+[Data Analysis and Insights](#data-analysis-and-insights)
 
 
 
@@ -62,12 +60,6 @@ EDA involved the exploring of the Data to give more insights about the data such
 3. The best selling Products
 4. Popular Subscription type
 5. Most active and cancelled subscription
-
- 
-
-### Data Analysis
----
-This is where the basic lines of codes or queries  were included and some of the DAX expressions used during our analysis
 
 
 
