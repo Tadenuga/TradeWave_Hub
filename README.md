@@ -1,6 +1,6 @@
 # TradeWave_Hub
 
-## Project Title: TradeWave Hub Sales Performance Analysis
+## Project Title: TradeWave Hub Sales / Customer Performance Analysis
 [Project Overveiw ](#project-overview)
 
 [Data Sources](#data-sources)
